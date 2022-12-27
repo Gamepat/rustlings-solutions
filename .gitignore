@@ -1,2 +1,4 @@
 .idea
 target
+exercises/clippy/Cargo.lock
+exercises/clippy/Cargo.toml
